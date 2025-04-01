@@ -9,6 +9,7 @@ int main(){
     temp = *punt_num;
 
     *punt_num=seg;
+    //algun comentario nbkmbj
 
     printf("despues - prim=%d   seg= %d",prim,seg);
 
